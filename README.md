@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 I’m a Computer Science Engineering (CSE) student<br>🔭 I’m currently working on Linux, Shell Scripting & Cloud projects<br>☁️ I’m building skills in AWS & DevOps tools<br>👯 I’m looking to collaborate on DevOps & automation projects<br>🤝 I’m looking for help with advanced CI/CD & real-world DevOps practices<br>🌱 I’m currently learning AWS, Docker, Git & Bash scripting<br>💬 Ask me about Linux basics, cloud fundamentals & automation<br><br>
+🎓 I’m a Computer Science Engineering (CSE) student<br>
+
+
 
 
 # 💻 Tech Stack:
